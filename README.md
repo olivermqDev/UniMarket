@@ -37,3 +37,51 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 ---
 
 ### 🏗️ Estructura del Proyecto
+app/
+├── data/
+│ ├── model/ # Modelos de datos (User, Producto)
+│ ├── repository/ # Repositorios Firebase
+│
+├── viewmodel/ # Lógica de negocio (MVVM)
+├── iu/screens/ # Pantallas Compose
+├── navigation/ # Sistema de rutas
+├── ui/theme/ # Colores y tipografía
+└── MainActivity.kt # Punto de entrada
+
+
+
+---
+
+### 🧩 Funcionalidades Sprint 1 (implementadas ✅)
+- 🔐 Login y registro de usuario con Firebase Authentication  
+- 🧍 Gestión de perfil con foto de usuario (Firestore + Storage)  
+- 🛒 CRUD completo de productos (crear, editar, listar, eliminar)  
+- 🗂️ Catálogo con filtros por categoría y precio  
+
+---
+
+### 📅 Roadmap
+| Sprint | Objetivos | Estado |
+|--------|------------|--------|
+| 1️⃣ | Autenticación y CRUD básico | ✅ Completado |
+| 2️⃣ | Chat en tiempo real + chatbot IA | 🟡 En desarrollo |
+| 3️⃣ | Valoraciones + geolocalización | 🔜 Pendiente |
+
+---
+
+### 👨‍💻 Autores
+| Nombre | Rol |
+|--------|-----|
+| **Mitma Quino Oliver Alexander** | Android Developer · Firebase Integration |
+| **Romero Velásquez Diego Aldair** | Backend & UX/UI Designer |
+
+---
+
+### 🖼️ Vista previa (GIF de la app)
+> *(Sustituye esta imagen por una grabación de pantalla de tu app en ejecución)*  
+>
+> Puedes subir un GIF de tu app a un sitio como [**ezgif.com**](https://ezgif.com/video-to-gif) y colocar el enlace en el tag `<img>`.
+
+```html
+<img src="https://your-app-demo.gif" width="360" alt="UniMarket demo"/>
+
