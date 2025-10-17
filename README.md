@@ -77,12 +77,3 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 | **Romero Velásquez Diego Aldair** | Backend & UX/UI Designer |
 
 ---
-
-### 🖼️ Vista previa (GIF de la app)
-> *(Sustituye esta imagen por una grabación de pantalla de tu app en ejecución)*  
->
-> Puedes subir un GIF de tu app a un sitio como [**ezgif.com**](https://ezgif.com/video-to-gif) y colocar el enlace en el tag `<img>`.
-
-```html
-<img src="https://your-app-demo.gif" width="360" alt="UniMarket demo"/>
-
