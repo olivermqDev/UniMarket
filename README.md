@@ -73,8 +73,8 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 ### 👨‍💻 Autores
 | Nombre | Rol |
 |--------|-----|
-| **Mitma Quino Oliver Alexander** | Android Developer · Firebase Integration |
-| **Romero Velásquez Diego Aldair** | Backend & UX/UI Designer |
+| **Romero Velásquez Diego Aldair** | Android Developer · Firebase Integration |
+| **Mitma Quino Oliver Alexander** | Backend & UX/UI Designer . Módulo de Productos|
 | **Mario Sánchez Mirones** | Frontend Developer · Módulo de Usuarios (Auth & Profile) |
 
 ---
