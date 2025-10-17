@@ -37,6 +37,7 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 ---
 
 ### 🏗️ Estructura del Proyecto
+
 app/
 ├── data/
 │ ├── model/ # Modelos de datos (User, Producto)
