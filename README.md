@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ2NHBtd25oN2tkZ2Fya3JwcWxxN3R6NDRpazVmMGFqdmZ5em1sMyZ2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hhKzzvN4bx0W4/giphy.gif" width="360" alt="UniMarket app demo"/>
+  <img src="https://miro.medium.com/v2/1*r0hDPKC9AEEyU4bTxZY5MQ.png"/>
 </p>
 
 ---
