@@ -38,16 +38,16 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 
 ### 🏗️ Estructura del Proyecto
 
-app/
-├── data/
-│ ├── model/ # Modelos de datos (User, Producto)
-│ ├── repository/ # Repositorios Firebase
-│
-├── viewmodel/ # Lógica de negocio (MVVM)
-├── iu/screens/ # Pantallas Compose
-├── navigation/ # Sistema de rutas
-├── ui/theme/ # Colores y tipografía
-└── MainActivity.kt # Punto de entrada
+- app/
+- ├── data/
+- │ ├── model/ # Modelos de datos (User, Producto)
+- │ ├── repository/ # Repositorios Firebase
+- │
+- ├── viewmodel/ # Lógica de negocio (MVVM)
+- ├── iu/screens/ # Pantallas Compose
+- ├── navigation/ # Sistema de rutas
+- ├── ui/theme/ # Colores y tipografía
+- └── MainActivity.kt # Punto de entrada
 
 
 
