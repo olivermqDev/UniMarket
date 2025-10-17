@@ -75,5 +75,6 @@ Desarrollada con un enfoque **modular y escalable** bajo arquitectura **MVVM + J
 |--------|-----|
 | **Mitma Quino Oliver Alexander** | Android Developer · Firebase Integration |
 | **Romero Velásquez Diego Aldair** | Backend & UX/UI Designer |
+| **Mario Sánchez Mirones** | Frontend Developer · Módulo de Usuarios (Auth & Profile) |
 
 ---
